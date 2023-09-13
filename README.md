@@ -1,5 +1,5 @@
 ## React + Vite
-In this project, I use a ReactJS application with Vite, Tailwind CSS, and RTK. The application have a beautiful user interface with glass morphism, use advanced API requests and local storage, and have error handling and a copy-to-clipboard feature and use OpenAI GPT model to improve the user experience.
+ReactJS application with Vite, Tailwind CSS and RTK. The application have a beautiful user interface with glass morphism, use advanced API requests and local storage, and have error handling and a copy-to-clipboard feature and use OpenAI GPT model to improve the user experience.
 
 ## Project Highlights
 
