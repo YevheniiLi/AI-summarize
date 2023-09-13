@@ -13,16 +13,15 @@ const Hero = () => {
           onClick={() => window.open("https://github.com/YevheniiLi")}
           className="black_btn"
         >
-          GitHub
+          My GitHub
         </button>
       </nav>
       <h1 className="head_text">
-        Summarize Articles with <br className="max-md:hidden" />
+      Article Summarization Powered by <br className="max-md:hidden" />
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
-      <h2 className="desc">
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+      <h2 className="desc p-2">
+      Simplify Your Reading Experience with Summize, the Open-Source Article Summarizer
       </h2>
     </header>
   );
